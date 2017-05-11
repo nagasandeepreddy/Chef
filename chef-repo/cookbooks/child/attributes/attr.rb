@@ -1,0 +1,1 @@
+default['child']['git_installer_name'] = "Git-2.12.2.2-64-bit.exe"
